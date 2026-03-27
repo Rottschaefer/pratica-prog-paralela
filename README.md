@@ -13,14 +13,6 @@ The code in this repository is designed to demonstrate fundamental concepts of p
 - Process communication and synchronization
 - Algorithm parallelization strategies
 
-## License
-
-This repository is for educational purposes as part of the Parallel Programming Laboratory course at UFF.
-
-## Author
-
-Developed as part of the coursework for the Bachelor's Degree in Computer Science at Universidade Federal Fluminense.
-
 ---
 
 **Note:** This repository is maintained for academic purposes.
